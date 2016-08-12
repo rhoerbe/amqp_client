@@ -1,0 +1,5 @@
+# README
+
+requires (-> maven):
+com.rabbitmq.aqmp-client
+org.apache.derby.derby
